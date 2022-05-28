@@ -1,0 +1,16 @@
+.b-photo {
+    width: 30vw;
+    border-radius: 50%;
+    margin-left: 35vw;
+    background-color: black;
+}
+
+.b-text {
+    background-color: black;
+    color:azure;
+    padding: 30px;
+}
+.b-video {
+    width: 40vw;
+    margin-right: 10vw;
+}
