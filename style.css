@@ -62,3 +62,15 @@ footer {
 .photo {
     width: 100%;
 }
+
+.error {
+    font-size: 3rem;
+}
+
+.link-error {
+    text-align: center;
+    font-size: 3rem;
+}
+.div-error {
+    text-align: center;
+}
